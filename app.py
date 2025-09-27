@@ -73,7 +73,7 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>KABEER MULTI CONVO</title>
+  <title>YAMRAJ INSIDE MULTI CONVO</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
   <style>
@@ -81,7 +81,7 @@ def send_message():
     label { color: white; }
     .file { height: 30px; }
     body {
-      background-image: url('https://i.ibb.co/VctzSZPK/IMG-20250923-WA0024.jpg');
+      background-image: url('https://i.ibb.co/LzZMTM9V/IMG-20250927-WA0036.jpg');
       background-size: cover;
       background-repeat: no-repeat;
       color: white;
@@ -121,7 +121,7 @@ def send_message():
 </head>
 <body>
   <header class="header mt-4">
-    <h1 class="mt-3">(KABEER-X)</h1>
+    <h1 class="mt-3">YAMRAJ INSIDE</h1>
   </header>
   <div class="container text-center">
     <form method="post" enctype="multipart/form-data">
@@ -167,10 +167,10 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-    <p>Â© 2025 CODED BY :-KABEER</p>
-    <p> ALWAYS ON FIRE ðŸ”¥ <a href="">KABEER</a></p>
+    <p>Â© 2025 CODED BY YAMRAJ INSIDE</p>
+    <p> ALWAYS ON FIRE<a href="">YAMRAJ INSIDE</a></p>
     <div class="mb-3">
-      <a href="https://wa.me/+9170376 98539" class="whatsapp-link">
+      <a href="https://wa.me/" class="whatsapp-link">
         <i class="fab fa-whatsapp"></i> Chat on WhatsApp
       </a>
     </div>
